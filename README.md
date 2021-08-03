@@ -1,2 +1,2 @@
 # indeed
-# for now, storing Google Colab code here.
+# Backing up Google Colab code here, as well as R ipynb notebooks.
